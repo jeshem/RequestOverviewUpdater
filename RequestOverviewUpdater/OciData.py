@@ -1,0 +1,3 @@
+class OciData:
+    project = []
+    service = []
